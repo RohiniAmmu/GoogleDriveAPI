@@ -1,0 +1,4 @@
+#
+#Wed Jun 12 16:24:50 IST 2019
+sas.http.port=8080
+sas.https.port=8443
